@@ -43,7 +43,25 @@ A platform for students of BIT and it’s club, where one can find everything re
 
 - **Effcient Lazy loading / infinite Scroll**
     - First query and load first few documents from database and loads more when user scrolls, thus saving user's data usage & server cost. It's also memory efficient as it loads only the item on focus, ( flatlist )
+- ** Authentication **
+    - User can login / SignUp 
+    - forget password
+    - Anonymous login
+- ** Newsroom **
+    - New event updates 
+    - Event details
+    - 1 click Event join
 
+- ** Posts CRUD **
+    - Admins can create, update, delete event posts.
+
+- ** Organisation pages **
+    - list of all clubs
+    - club details 
+    - **MarkDown Renderer** for rendering additional content 
+- ** User Profiles**
+    - Admin profile for admins
+    - Student profile for rest users    
 
 
 
