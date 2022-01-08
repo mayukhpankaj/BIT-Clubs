@@ -42,7 +42,7 @@ A platform for students of BIT and it’s club, where one can find everything re
 ## Achievements 
 
 - **Effcient Lazy loading / infinite Scroll**
-    - First query and load first few documents from database and loads more when user scrolls, thus saving user's data usage & server cost.
+    - First query and load first few documents from database and loads more when user scrolls, thus saving user's data usage & server cost. It's also memory efficient as it loads only the item on focus, ( flatlist )
 
 
 
