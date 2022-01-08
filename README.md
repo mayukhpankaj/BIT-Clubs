@@ -47,6 +47,10 @@ A platform for students of BIT and it’s club, where one can find everything re
     - User can login / SignUp 
     - forget password
     - Anonymous login
+ 
+- **Dynamic Content**
+    - Instead of relying on static content, our app fetches , cache and renders content from database.
+    - Markdown renderer for additional content
 - **Newsroom**
     - New event updates 
     - Event details
