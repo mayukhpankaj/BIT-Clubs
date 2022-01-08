@@ -10,6 +10,10 @@
   <h3 align="center">
 Everyone is here !   <br/>
     <br/>
+    
+    ### App for University clubs and events
   </h3>
 </div>
+
+
 
