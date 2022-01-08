@@ -30,7 +30,8 @@ Everyone is here !
 
 ## Idea 
 
-![Untitled (72 x 20 in)](https://user-images.githubusercontent.com/40158577/148661202-dfb2b9dc-cf4a-4845-b931-6d834c6fb353.png)
+![Untitled (72 x 20 in) (1)](https://user-images.githubusercontent.com/40158577/148661330-509cb506-2331-4e22-a70a-5eff3739101b.png)
+
 
 As a fresher and due to online mode , one of the challenges  was knowing about the clubs and events being organised around the institute. Also we rely a lot on whatsapp groups to share event details, which is unorganised can become  spammy, missing important updates.
 So to tackle all of this, we have developed BIT Clubs !
