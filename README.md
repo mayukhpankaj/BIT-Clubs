@@ -5,7 +5,7 @@
   </a>
 
   <h1 align="center">
-   # BIT Clubs
+    BIT Clubs
   </h1>
   <h3 align="center">
 Everyone is here !   <br/>
