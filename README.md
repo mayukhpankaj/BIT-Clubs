@@ -22,9 +22,6 @@ Everyone is here !
 ## Techstack
 - **React - Native**
 - **React - Navigation**
-      *  Tab Navigator
-      *  Stack Navigator
-      *  Deep Linking
 -  **NodeJS**
 -  **Firebase**
     *  Authentication
