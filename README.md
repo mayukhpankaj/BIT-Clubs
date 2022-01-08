@@ -10,9 +10,28 @@
 Everyone is here !   
   </h3>
 <h4 align="center">
-  App for University clubs and events
+  App for University's clubs and events
 </h4>
 </div>
+
+ 
+
+## Domain
+**App development**
+
+## Techstack
+- **React - Native**
+- **React - Navigation**
+-  **NodeJS**
+-  **Firebase**
+		-  Authentication
+		- Firestore		( NoSQL db )
+		- Cloud Storage ( for storing images )
+
+
+
+
+
 
 
 
