@@ -39,6 +39,10 @@ So to tackle all of this, we have developed BIT Clubs !
 
 A platform for students of BIT and it’s club, where one can find everything related to a club and stay updated about new events. 
 
+## Achievements 
+
+- **Effcient Lazy loading / infinite Scroll**
+    - First query and load first few documents from database and loads more when user scrolls, thus saving user's data usage & server cost.
 
 
 
