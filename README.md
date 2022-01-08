@@ -24,9 +24,9 @@ Everyone is here !
 - **React - Navigation**
 -  **NodeJS**
 -  **Firebase**
-  *  Authentication
-  * Firestore ( NoSQL db )
-  * Cloud Storage ( for storing images )
+    *  Authentication
+    * Firestore ( NoSQL db )
+    * Cloud Storage ( for storing images )
 
 
 
