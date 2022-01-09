@@ -93,6 +93,30 @@ Web Tour
 
 https://user-images.githubusercontent.com/40158577/148701506-0cc4f2f1-8cea-407d-82d3-06d2fb73ea96.mp4
 
+## How to run
+
+coming soon on playstore & heroku.
+
+first install Expo CLI
+
+```
+npm install --global expo-cli
+
+```
+Then install node modules
+
+```
+npm install
+
+```
+
+then run app 
+
+```
+expo start 
+```
+
+press 'w' for web , 'a' for android while running Android studio AVD manager,
 
 
 
