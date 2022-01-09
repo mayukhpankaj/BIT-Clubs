@@ -101,13 +101,11 @@ first install Expo CLI
 
 ```
 npm install --global expo-cli
-
 ```
 Then install node modules
 
 ```
 npm install
-
 ```
 
 then run app 
@@ -118,6 +116,9 @@ expo start
 
 press 'w' for web , 'a' for android while running Android studio AVD manager,
 
+# Improvement 
+
+one of the limitation of react native is it's JSON stylesheets , UI could have been better.
 
 
 
