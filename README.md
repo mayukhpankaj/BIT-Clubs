@@ -62,10 +62,12 @@ A platform for students of BIT and it’s club, where one can find everything re
 - **Organisation pages**
     - list of all clubs
     - club details 
-    - **MarkDown Renderer** for rendering additional content 
+    - **MarkDown** for  additional content 
 - **User Profiles**
     - Admin profile for admins
     - Student profile for rest users    
+- **Platform Specific code **
+    - different stylesheet for android, ios, web
 
 
 
