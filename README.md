@@ -71,6 +71,17 @@ A platform for students of BIT and it’s club, where one can find everything re
 - **Platform Specific code **
     - different stylesheet for android, ios, web
 
+## Demo 
+
+#### Android 
+
+App Tour 
+
+
+
+https://user-images.githubusercontent.com/40158577/148701264-9d07f43e-f322-4303-8b6c-7268d2037066.mp4
+
+
 
 
 
