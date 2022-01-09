@@ -77,9 +77,21 @@ A platform for students of BIT and it’s club, where one can find everything re
 
 App Tour 
 
-
-
 https://user-images.githubusercontent.com/40158577/148701264-9d07f43e-f322-4303-8b6c-7268d2037066.mp4
+
+#### iOS 
+
+Admin Tour 
+
+https://user-images.githubusercontent.com/40158577/148701383-0e47e6b4-c024-46c2-bb4d-16165eae5658.mp4
+
+#### Web 
+
+Web Tour 
+
+
+https://user-images.githubusercontent.com/40158577/148701444-7110e24b-5452-4bad-82b3-36d564124c6f.mp4
+
 
 
 
