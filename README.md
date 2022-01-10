@@ -1,7 +1,7 @@
 
 <div align="center">
   <a href="#">
-    <img src="https://raw.githubusercontent.com/mayukhpankaj/BIT-Clubs/main/public/logo.png" alt="BIT clubs" width="400">
+    <img src="https://raw.githubusercontent.com/mayukhpankaj/BIT-Clubs/main/public/logo.png?raw=true" alt="BIT clubs" width="400" height="400" >
   </a>
   <h1 align="center">
     BIT Clubs
