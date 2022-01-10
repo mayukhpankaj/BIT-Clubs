@@ -12,7 +12,6 @@ Everyone is here !
 <h4 align="center">
   App for University's clubs and events
 </h4>
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=BIT-Clubs)
 </div>
 
 
@@ -22,6 +21,8 @@ Everyone is here !
 
 ## Domain
 **App development**
+
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=BIT-Clubs) 
 
 ## Techstack
 - **React - Native**
@@ -72,6 +73,10 @@ A platform for students of BIT and it’s club, where one can find everything re
     - Student profile for rest users    
 - **Platform Specific code **
     - different stylesheet for android, ios, web
+
+## Developed by 
+
+## [Hritik Chaudhary](https://github.com/hrit-ik)  &  Mayukh Pankaj
 
 ## Demo 
 
