@@ -12,8 +12,10 @@ Everyone is here !
 <h4 align="center">
   App for University's clubs and events
 </h4>
+  ![visitors](https://visitor-badge.glitch.me/badge?page_id=BIT-Clubs)
 </div>
-![visitors](https://visitor-badge.glitch.me/badge?page_id=bitclubs)
+
+
 
 ![glow (2)](https://user-images.githubusercontent.com/40158577/148701052-756e0f3c-4892-4634-a108-5e6b92979397.png)
 
