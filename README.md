@@ -77,7 +77,7 @@ A platform for students of BIT and it’s club, where one can find everything re
 
 ## App wireframe & mockup 
 
-<img src="https://user-images.githubusercontent.com/40158577/183588672-107d31fd-1788-483c-87e2-f2478d096842.jpeg" height="50%">
+<img src="https://user-images.githubusercontent.com/40158577/183588672-107d31fd-1788-483c-87e2-f2478d096842.jpeg" width="40%">
 
 
 
