@@ -75,9 +75,11 @@ A platform for students of BIT and it’s club, where one can find everything re
 - **Platform Specific code **
     - different stylesheet for android, ios, web
 
-## Developed by 
+## App wireframe & mockup 
 
-## [Hritik Chaudhary](https://github.com/hrit-ik)  &  Mayukh Pankaj
+![WhatsApp Image 2022-08-09 at 12 19 05 PM](https://user-images.githubusercontent.com/40158577/183588672-107d31fd-1788-483c-87e2-f2478d096842.jpeg)
+
+
 
 ## Demo 
 
